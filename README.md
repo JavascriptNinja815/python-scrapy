@@ -1,3 +1,3 @@
-# OLX Scraper
+# Web Crawler by Python Scrappy
 
-A simple web crawler to get data from OLX's electronics section. it is written in Python Scrapy
+A simple web crawler to get data from specific website section.
